@@ -23,9 +23,9 @@ const assertArraysEqual = (arr1, arr2)=> {
 
 const middle = (array)=> {
   let newArray = [];
-  const middleIndex = Math.ceil(array.length/2) - 1;
+  const middleIndex = Math.ceil(array.length / 2) - 1;
 
-  if (array.length <=2) {
+  if (array.length <= 2) {
     return newArray;
   } else {
     newArray.push(array[middleIndex]);
