@@ -1,5 +1,5 @@
 {
-  "name": "lotide",
+  "name": "@cassidyq/lotide",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,7 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/cassidyq/lotide.git"
   },
-  "author": "",
+  "author": { 
+    "name" : "Cassidy Quaite",
+    "email" : "crquaite@gmail.com"
+    },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cassidyq/lotide/issues"
